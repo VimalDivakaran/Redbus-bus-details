@@ -38,4 +38,5 @@ Technologies used in the project:
 
 <h2>Project Screenshots:</h2>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
+![Redbus_project](https://github.com/user-attachments/assets/8dbdd5f8-27e0-4a8a-9428-61fd2316dee9)
+
