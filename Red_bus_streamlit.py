@@ -2,8 +2,6 @@
 import pandas as pd
 import mysql.connector
 import streamlit as slt
-
-import plotly.express as px
 import time
 
 # kerala bus
