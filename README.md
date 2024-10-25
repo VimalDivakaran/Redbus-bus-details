@@ -33,7 +33,6 @@ Technologies used in the project:
 * mysql.connector
 * import time
 * streamlit as slt
-* import datetime
 * from selenium import webdriver
 
 <h2>Project Screenshots:</h2>
