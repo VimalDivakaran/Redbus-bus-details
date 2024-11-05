@@ -37,5 +37,5 @@ Technologies used in the project:
 
 <h2>Project Screenshots:</h2>
 
-![Redbus_project](https://github.com/user-attachments/assets/589e53fa-e9fd-4c4d-8138-24aeb1d25bc3)
+![Redbus_project](https://github.com/user-attachments/assets/b010c995-be95-467d-8199-89b8260c5c81)
 
